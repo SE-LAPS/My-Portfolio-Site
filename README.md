@@ -44,12 +44,12 @@ To learn React, check out the <a href="https://reactjs.org/">React documentation
 
 <h2>🔍 Additional Resources</h2>
 <ul>
-    <li>▶ <a href="https://create-react-app.dev/docs/code-splitting/">Code Splitting</a></li>
-    <li>▶ <a href="https://create-react-app.dev/docs/analyzing-the-bundle-size/">Analyzing the Bundle Size</a></li>
-    <li>▶ <a href="https://create-react-app.dev/docs/making-a-progressive-web-app/">Making a Progressive Web App</a></li>
-    <li>▶ <a href="https://create-react-app.dev/docs/advanced-configuration/">Advanced Configuration</a></li>
-    <li>▶ <a href="https://create-react-app.dev/docs/deployment/">Deployment</a></li>
-    <li>▶ <a href="https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify">Troubleshooting</a></li>
+    ▶ <a href="https://create-react-app.dev/docs/code-splitting/">Code Splitting</a>
+    ▶ <a href="https://create-react-app.dev/docs/analyzing-the-bundle-size/">Analyzing the Bundle Size</a>
+    ▶ <a href="https://create-react-app.dev/docs/making-a-progressive-web-app/">Making a Progressive Web App</a>
+    ▶ <a href="https://create-react-app.dev/docs/advanced-configuration/">Advanced Configuration</a>
+    ▶ <a href="https://create-react-app.dev/docs/deployment/">Deployment</a>
+    ▶ <a href="https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify">Troubleshooting</a>
 </ul>
 
 <h2>🎥 YouTube Link</h2>
