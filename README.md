@@ -34,13 +34,11 @@ You can learn more in the Create React App documentation.
 To learn React, check out the React documentation.
 
 🔍 Additional Resources
-  ▶Code Splitting - https://create-react-app.dev/docs/code-splitting/
-  ▶Analyzing the Bundle Size - https://create-react-app.dev/docs/analyzing-the-bundle-size/
-  ▶Making a Progressive Web App - https://create-react-app.dev/docs/making-a-progressive-web-app/
-  ▶Advanced Configuration - https://create-react-app.dev/docs/advanced-configuration/
-  ▶Deployment - https://create-react-app.dev/docs/deployment/
-  ▶Troubleshooting - https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify
-  
+▶ Code Splitting
+▶ Analyzing the Bundle Size
+▶ Making a Progressive Web App
+▶ Advanced Configuration
+▶ Deployment
+▶ Troubleshooting
 🎥 YouTube Link
 🔰 You Can Watch Now 👉 https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo
-
