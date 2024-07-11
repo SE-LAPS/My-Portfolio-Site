@@ -55,9 +55,8 @@ To learn React, check out the <a href="https://reactjs.org/">React documentation
 <h2>🎥 YouTube Link</h2>
 <p>🔰 <strong>You Can Watch Now 👉 <a href="https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo">https://youtu.be/bwd_frndXAw?si=xnRjQSf8aO2OuVTo</a></strong></p>
 
-
 <h2>👨‍💻 Devices Preview</h2>
-![Image edit](https://github.com/SE-LAPS/My-Portfolio-Site/assets/87580847/09de86b3-3bc6-4871-9b10-c5f6e6eb03e3)
+<img src="https://github.com/SE-LAPS/My-Portfolio-Site/assets/87580847/09de86b3-3bc6-4871-9b10-c5f6e6eb03e3" alt="Devices Preview">
 
 </body>
 </html>
