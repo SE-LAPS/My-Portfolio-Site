@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl flex items-center" style={{ color: "yellow" }}>
-          <img src="/favicon.ico" alt="Logo" className="w-8 h-8 mr-2" />
+          <img src="/public/favicon.ico" alt="Logo" className="w-8 h-8 mr-2" />
             CodeShow LapZ
           </a>
         </a>
